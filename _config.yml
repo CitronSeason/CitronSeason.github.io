@@ -228,7 +228,7 @@ social_icons:
   # Icon Mappings.
   #KeyMapsToSocialItemKey: NameOfTheIconFromFontAwesome
   GitHub: github
-  Twitter: fab fa-twitter
+  Twitter: twitter
   Weibo: weibo
 
 
