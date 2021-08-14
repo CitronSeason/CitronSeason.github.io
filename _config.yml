@@ -4,10 +4,10 @@
 # ---------------------------------------------------------------
 
 # Site
-title: NexT
+title: CitronSeason's Blog
 subtitle:
 description:
-author: John Doe
+author: CitronSeason
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: ja
 date_format: '%Y-%m-%d'
@@ -133,7 +133,7 @@ menu:
 #   When an question mask icon presenting up means that the item has no mapping icon.
 menu_icons:
   enable: true
-  KeyMapsToMenuItemKey: NameOfTheIconFromFontAwesome
+  #KeyMapsToMenuItemKey: NameOfTheIconFromFontAwesome
   home: home
   about: user
   categories: th
