@@ -279,7 +279,7 @@ sidebar:
   b2t: true
 
   # Scroll percent label in b2t button
-  scrollpercent: true
+  scrollpercent: false
 
 
 # Blog rolls
@@ -607,7 +607,7 @@ exturl: false
 #! ---------------------------------------------------------------
 
 # Motion
-use_motion: true
+use_motion: false
 
 # Fancybox
 fancybox: true
