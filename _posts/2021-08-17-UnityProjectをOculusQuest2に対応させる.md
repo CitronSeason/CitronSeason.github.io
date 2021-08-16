@@ -64,3 +64,9 @@ Unity Editorで再びBuild Settingsを開く。 UnityとQuest2の接続が成功
 
 PlayボタンでUnity Editor上で実行すると、Oculus Link上で再生される。
 Build SettingsからBuildを押してapk をQuest2上に配置することもできる。これはOculus Linkを起動しておく必要はない。PC上にapkを生成して、Oculus Developer Hubを使用してQuest2上に配置しても良い。  
+
+
+## カメラを頭部の傾き変化に追従させる
+Hierarchy上で右クリック > XR > Convert Main Camera To XR Rig
+を選択するだけ、驚くほどにかんたん...
+
