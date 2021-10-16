@@ -52,7 +52,7 @@ chrome.action.onClicked.addListener((tab) => {
 chrome右上から拡張機能のボタンを押すとアラートが出現するだけのプログラムである。
 サイトは次の2つを参考にした。
 
-- https://noitalog.tokyo/chrome-extensions/
-- https://original-game.com/how-to-make-chrome-extensions/
+- (https://noitalog.tokyo/chrome-extensions/)
+- (https://original-game.com/how-to-make-chrome-extensions/)
 
 つぎはポップアップでなにかウィンドウを表示させたい。
