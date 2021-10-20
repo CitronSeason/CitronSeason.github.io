@@ -1,6 +1,6 @@
 ---
 title: chrome拡張機能の開発を始めてみる
-date: 2021-10-16　17:00：００
+date: 2021-10-16　17:00：00
 categories:
 - chrome拡張機能開発
 ---
