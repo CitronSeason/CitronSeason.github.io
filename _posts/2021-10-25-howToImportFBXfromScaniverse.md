@@ -1,6 +1,6 @@
 ---
 title: ScaniverseでスキャンしたモデルをUnityに取り込む方法
-date: 2021-10-20　17:40：00
+date: 2021-10-25　14:55：00
 categories:
 - 研究メモ
 - Unity
