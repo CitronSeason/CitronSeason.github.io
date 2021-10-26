@@ -11,6 +11,8 @@ tags:
 ---
 
 マイクロソフトの[Azure-Kinect-Samples](https://github.com/microsoft/Azure-Kinect-Samples/tree/master/body-tracking-samples/sample_unity_bodytracking)のUnity bodytrackingのREAD ME をもとに既存のプロジェクトに導入する。READMEのとおりに行うと、サンプルプロジェクト上に構築されてしまうため、そうではなく自分のプロジェクトに導入する方法をまとめた。
+
+<!-- more -->
 ただし、手順中で使用するMoveLibraryFiles.batの一部が適切でないため失敗する。
 そこで、README.mdをもとに執筆時点(2021/10/26)で正しい導入方法を記録する。
 失敗した箇所は手動で移動する必要がある。
@@ -68,3 +70,5 @@ cudnn64_ops_infer64_8.dll -> cudnn_ops_infer64_8.dll
 
 さらに、最終的にビルドする際は、README.mdに従い適切なファイルを実行ファイルと同じ階層に配置する必要がある。
 
+## おまけ
+ここまでで使用してきたUnityのサンプルプロジェクトは非常に参考になるためPrefabやScriptはたくさん借用しよう！
