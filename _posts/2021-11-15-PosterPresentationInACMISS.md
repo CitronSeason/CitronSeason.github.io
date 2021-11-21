@@ -12,6 +12,8 @@ tags:
 日本時間にて2021年11月15日 26時~28時半にポスター発表を行った。
 発表論文は[DL ACM](https://dl.acm.org/doi/10.1145/3447932.3490678)にて閲覧できる
 
+<!-- more -->
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cgDFsTTYm6I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 タイトルは「ALiSE: Through the mirrored space, and what user interacts with avatars naturally」  
