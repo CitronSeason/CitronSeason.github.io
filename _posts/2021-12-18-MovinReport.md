@@ -1,6 +1,6 @@
 ---
-title: MinoruFujimotoさんの個展「MOVIN'」に行ってきた
-date: 2021-12-18 11:30：00
+title: MinoruFujimotoさんの個展「MOVIN'」へ行ってきた
+date: 2021-12-18 11:30:00
 categories:
 - 参加録
 tags:
