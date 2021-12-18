@@ -47,7 +47,7 @@ MOVIN'とは、ステージテクノロジスト集団mplusplusを率いるminor
 
 ## Conclusion
 巨人だスゲーという感想では、凄さが伝えられないと思い、  
-つらつら言い訳してたら意味分かんない文章になりました😜  
+つらつら言い訳してたら意味分かんない文章になりました  
 
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">光る巨人。3年前は人間と同じ大きさでした。光線4つだけで人間に見えるし、腕が伸びる！と最初のテストで感動しました。 <a href="https://t.co/rCWRyFIeQj">https://t.co/rCWRyFIeQj</a> <a href="https://t.co/hcV8gAIhxz">pic.twitter.com/hcV8gAIhxz</a></p>&mdash; minoru fujimoto (@bboypopeye) <a href="https://twitter.com/bboypopeye/status/1471990070899261440?ref_src=twsrc%5Etfw">December 17, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
