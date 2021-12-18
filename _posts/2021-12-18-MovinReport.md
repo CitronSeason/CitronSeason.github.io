@@ -15,7 +15,7 @@ MOVIN'とは、ステージテクノロジスト集団mplusplusを率いるminor
 
 今回、15日(水)にMOVIN'を拝見させていただき、5つの感想と考察が湧いたのでここに残しておきたく、執筆しています。  
 
- ## 道具と主体
+## 道具と主体
  MOVIN'の空間に入って最初に感じた感想。ライブ等の演出の照明道具であったムービングライトは、あくまでサブ的な道具である。主役を彩る脇役が主役になり、主体性を持ったのだなと感じた。  
 
  <iframe width="560" height="315" src="https://www.youtube.com/embed/c1cVE6IT2aU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -23,7 +23,7 @@ MOVIN'とは、ステージテクノロジスト集団mplusplusを率いるminor
  似た作品に、TeamLabのLight Vortexなどがある。これは光による空間彫刻だと考えている。  
  MOVIN'は光がHumanizedされている点で静と生という違いがある。
 
- ## エンターテイメントとアート
+## エンターテイメントとアート
  私も、照明を主役にした演出を行いたいと考えていた。しかし、エンターテイメントではなくアートにいるムービングライトという点に感慨深く感じた。エンターテイメントからアートに移ることはしばしばあるが、その主体はデジタルコンテンツであったり、メディアの中身であることがほとんどの中、メディアが変身したというtipping pointを感じた。  
 
 ## アブストラクトとコンテキスト
