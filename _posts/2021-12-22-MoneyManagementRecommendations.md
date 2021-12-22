@@ -1,12 +1,10 @@
-<!--
 ---
-title: 大学(院)進学後のお金について書きます
+title: 編入組のお金のすゝめ
 date: 2021-12-22 00:40:10
 categories:
 - Tips
 ---
--->
-# 編入組のお金のすゝめ  
+
 
 この記事は[群馬高専 Advent Calendar 2021](https://adventar.org/calendars/6424) 22日目の記事です。  
 
