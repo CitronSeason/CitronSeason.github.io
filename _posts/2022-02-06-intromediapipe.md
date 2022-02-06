@@ -1,5 +1,5 @@
 ---
-title: 論文メモ 2112~
+title: Windowsにvenvとpyenvを導入し、mediapipeをTouchDesigner上で動かせるようにする
 date: 2021-02-06 22:30:00
 categories:
 - Tips
